@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andaç Baran Özcan   andacbaranozcan@gmail.com   notwitter
 
 # THANKS
 
